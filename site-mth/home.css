@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+header{
+    text-align: center;
+    margin-top: 18px;
+}
+
+img{
+    height: 1.8em;
+    width: 2em;
+}
+
+#img-home{
+    width: 2.6em;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.busca{
+    text-align: right;
+    margin-top: -30px;
+    margin-right: 14em;
+}
+
+#txtbusca{
+    border-radius: 10px;
+    width: 15em;
+}

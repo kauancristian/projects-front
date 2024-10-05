@@ -1,0 +1,54 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Quicksand:wght@300..700&display=swap');
+
+.cadastro{
+    width: 1200px;
+}
+
+
+
+body{
+    background-image: linear-gradient(to left, #DD4DEA, #9C37A6, #7C2B84, #5D1E61, #000000 );
+    text-align: center;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+}
+
+.cadastro{
+    margin: auto;
+    background-image: linear-gradient(to left, #f04dff, #9C37A6, #7C2B84);
+    border: 2px solid white;
+    border-radius: 22px;
+    height: 23em;
+    width: 24em;
+    margin-top: 40px;
+}
+
+.caixa-texto{
+    font-weight: bolder;
+    text-align: center;
+    height: 2.5em;
+    width: 22em;
+    margin-top: 43px;
+    border-radius: 5px;
+    border: none;
+    font-family: "Inter", sans-serif;
+    outline: none;
+}
+
+::placeholder{
+    color: black;
+    font-weight: bold;
+}
+
+
+#buttom{
+    margin-top:13%;
+    background: none;
+    border: none;
+    color: white;
+    text-decoration: underline;
+    font-size: 1.3em;
+}
+

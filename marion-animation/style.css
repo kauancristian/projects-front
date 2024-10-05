@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+
+@keyframes mario{
+    0%{
+        img
+    }
+}
+
+#mario{
+    margin-top: 20%;
+    margin-left: 26em;
+}
+
+
+
